@@ -1,0 +1,2 @@
+# 列表
+终于进入到了Python中跟STL一样重要的库了，list，tuple和str这一类的一些函数成员介绍
